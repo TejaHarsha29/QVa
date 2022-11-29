@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "393304432355",
+    "project_id": "shining-sign-311704",
+    "storage_bucket": "shining-sign-311704.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393304432355:android:16292344391736ea6e6fd6",
+        "android_client_info": {
+          "package_name": "com.example.qv"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393304432355-1nuindehclejhrlb2d6amto6vtnbdsqo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB58RbkTp9U5JZlwCw0hwgifdqZRH4nHaE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393304432355-1nuindehclejhrlb2d6amto6vtnbdsqo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
